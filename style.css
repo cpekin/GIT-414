@@ -12,6 +12,7 @@ body {
   header{
     background-color: #616161;
     color: #ffffff;
+    text-transform: uppercase;
     padding:10px;
     justify-content: center;
   }
@@ -19,7 +20,7 @@ body {
   nav{
     /* background: #616161;
     color:#9ff7ff; */
-    background:#9ff7ff;
+    background:#0055ff;
   }
 
  ul{
@@ -48,5 +49,7 @@ body {
     /* background: #616161; */
     background-color: #616161;
     color: #ffffff;
+    text-transform: uppercase;
     padding: 5px;
+    text-align: center;
   }
