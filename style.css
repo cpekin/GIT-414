@@ -5,6 +5,7 @@ body {
     /* font: Montserrat; */
     font-family: Montserrat;
     font-weight: bold;
+    text-transform: uppercase;
     line-height: 2;
     padding: 10px;
   }
@@ -43,6 +44,7 @@ body {
   main{
     justify-content: center;
     padding: 20px;
+    text-align: center;
   }
 
   footer{
